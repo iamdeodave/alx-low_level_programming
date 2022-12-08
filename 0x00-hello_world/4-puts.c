@@ -1,13 +1,8 @@
-#include <stdio.h>
-
 /**
- *
- *  * main - main block
- *
- *   * Return: 0
- *
- *    */
-
+ * main - main block
+ * Return: 0
+ */
+#include <stdio.h>
 int main(void)
 
 {
@@ -17,3 +12,4 @@ int main(void)
 	return (0);
 
 }
+

@@ -1,6 +1,7 @@
 /**
  * File: 0-positive_or_negetive.c
- * main - Prints a random number and states whetherit is positive, negative, or zero.
+ * main - Prints a random number and states whether 
+ * it is positive, negative, or zero.
  * return: 0 always
  */
 
@@ -10,6 +11,14 @@
 
 int main(void)
 {
+
+/**                                                                                                                                                                                           
+ *
+ * File: 0-positive_or_negetive.c                                                                                                                                                             
+ * main - Prints a random number and states whether 
+ * it is positive, negative, or zero.                                                                                                         
+ * return: 0 always                                                                                                                                                                    
+ */ 
 	int n;
 
 	srand(time(0));

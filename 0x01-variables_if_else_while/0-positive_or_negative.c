@@ -1,6 +1,7 @@
 /**
  * File: 0-positive_or_negetive.c
- * main - Prints a random number and states whether 
+ * main - main block
+ * Description - Prints a random number and states whether 
  * it is positive, negative, or zero.
  * return: 0 always
  */
@@ -11,11 +12,10 @@
 
 int main(void)
 {
-
-/**                                                                                                                                                                                           
- *
+/**                                                                                                                          
  * File: 0-positive_or_negetive.c                                                                                                                                                             
- * main - Prints a random number and states whether 
+ * main - main block
+ * Description - Prints a random number and states whether 
  * it is positive, negative, or zero.                                                                                                         
  * return: 0 always                                                                                                                                                                    
  */ 

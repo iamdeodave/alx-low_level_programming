@@ -12,8 +12,13 @@
 
 int main(void)
 {
-	/*Description - Main Function */
+	/**
+	 * main - main block
+	 *Description - Main Function
+	 *Return: 0 
+	 */
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 

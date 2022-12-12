@@ -10,15 +10,8 @@
 #include <time.h>
 #include <stdio.h>
 
-int main(void)
+int main(void)                                                                                                                                                      
 {
-/**                                                                                                                          
- * File: 0-positive_or_negetive.c                                                                                                                                                             
- * main - main block
- * Description - Prints a random number and states whether 
- * it is positive, negative, or zero.                                                                                                         
- * return: 0 always                                                                                                                                                                    
- */ 
 	int n;
 
 	srand(time(0));
